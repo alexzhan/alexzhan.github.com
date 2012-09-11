@@ -2,7 +2,7 @@
 layout: post
 title: "PHP比你想象的好的多"
 description: ""
-category: 
+category: php 
 tags: [PHP, web, language, ecosystem, platform]
 ---
 {% include JB/setup %}
