@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP比你想象的好的多"
+title: "PHP比你想象的好得多"
 description: ""
 category: php 
 tags: [PHP, web, language, ecosystem, platform]
