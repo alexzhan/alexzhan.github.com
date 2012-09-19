@@ -75,7 +75,7 @@ phpBB，Drupal，ez Publish，Symfony，和很多其他项目（比如phpDocumen
 
 让我再重申一次，PHP可能不是最好的编程语言，我也是第一个说出它的怪处的，但是PHP是迄今为止最好的web平台。
 
-*本文固定地址：[PHP比你想象的好得多](http://alexzhan.com/php/2012/09/11/php-is-much-better-than-you-think/)*
+*本文固定地址：[PHP比你想象的好得多](http://alexzhan.com/php/2012/09/11/php-is-much-better-than-you-think/)，转载请注明出处。*
 
 *说明：本文译自[PHP is much better than you think](http://fabien.potencier.org/article/64/php-is-much-better-than-you-think)*
 *译者微博：[@alexzhan](http://weibo.com/alexzhan)*
